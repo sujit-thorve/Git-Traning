@@ -16,13 +16,6 @@ Multi(x,y)
 Divide(x,y)
 
 return (x/y)
-=======
-Diivide(x,y)
-if(x==0)
-print DIVIDE_BY_0_ERROR
-else
-return x/y
->>>>>>> BigFix01
 
 
 // I am editing this file from remote repository.....
