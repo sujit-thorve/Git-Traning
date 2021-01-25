@@ -1,0 +1,25 @@
+*** Addition ***
+
+Add(x,y)
+  return x+y
+
+*** Subtraction***
+Sub(x,y)
+return x-y
+
+*** Multiplication ***
+Multi(x,y)
+  pass x*y
+
+*** Division ****
+<<<<<<< HEAD
+Divide(x,y)
+
+return (x/y)
+=======
+Diivide(x,y)
+if(x==0)
+print DIVIDE_BY_0_ERROR
+else
+return x/y
+>>>>>>> BigFix01
